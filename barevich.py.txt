@@ -1,0 +1,4 @@
+import sys
+anun = sys.argv[1]
+
+print("Barev, %s" % anun)

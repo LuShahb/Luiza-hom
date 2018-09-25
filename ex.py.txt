@@ -1,0 +1,4 @@
+import sys
+inp_str = sys.argv[1]
+inp_str = inp_str.lower()
+print("%s: %s" % ("a", inp_str.count("a")))
